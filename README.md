@@ -43,8 +43,7 @@
 ## 🚀 Cara Menjalankan Proyek
 
 1. Pindahkan folder proyek ini ke direktori server lokal kamu:  
-   - **XAMPP:** `htdocs/`  
-   - **Laragon:** `www/`
+   - **XAMPP:** `htdocs/`
 
 2. Sesuaikan konfigurasi database di file **config.php**:
    ```php
@@ -58,7 +57,7 @@
 
 4. Akses aplikasi melalui browser:
    ```
-   http://localhost/nama_folder_kamu/
+   http://localhost/Sistemtesting/
    ```
 
 5. Jalur akses utama:
@@ -88,19 +87,7 @@
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Bahasa:** PHP (Native)  
-- **Database:** MySQL (PDO)  
-- **Arsitektur:** MVC (Model–View–Controller)  
-- **Server:** Apache / Nginx  
-
----
-
-## 👨‍💻 Pengembang
-
-**Gefi**  
-Mahasiswa Sistem Informasi & UI/UX Designer  
-💼 [Gefiranch](#)
-
----
-
-⭐ *Kalau struktur ini membantu, jangan lupa kasih bintang di repo GitHub kamu!*
+- **Bahasa:** PHP
+- **Database:** MySQL 
+- **Arsitektur:** MVC
+- **Server:** Apache 
